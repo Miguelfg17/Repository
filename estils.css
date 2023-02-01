@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(219, 121, 0);
+    color: black;
 }
 
 a:link {
@@ -38,5 +38,5 @@ a:link {
 }
 
 a:active {
-    color: darkgoldenrod;
+    color: darkorange;
 }
