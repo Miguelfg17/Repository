@@ -16,19 +16,15 @@ body {
 
 .link {
     background-color: white;
-    height: 200px;
+    height: 300px;
     width: 700px;
     margin: 0 auto;
     position: relative;
     text-align: center;
     line-height: 200px;
-    margin-top: 10px;
+    margin-top: 50px;
     font-size: 60px;
     border: 5px solid black;
-}
-
-#web {
-    line-height: -50px;
 }
 
 a {
